@@ -36,18 +36,6 @@
 
 📫 Let's Connect: Vishnuvijayan6865@gmail.com
 
-
-# 📊 GitHub Stats:
-
-![Vishnu-V-N's Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![Vishnu-V-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vishnu068709&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vishnu068709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -70,3 +58,13 @@
 </div>
 ---
 ---
+
+# 📊 GitHub Stats:
+
+![Vishnu-V-N's Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Vishnu-V-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Vishnu068709&icon=0&color=0)](https://visitcount.itsvg.in)
+
+

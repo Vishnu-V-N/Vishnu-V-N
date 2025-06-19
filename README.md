@@ -61,7 +61,6 @@
 
 # 📊 GitHub Stats:
 ![Vishnu-V-N's Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Vishnu-V-N's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-V-N&theme=dark&hide_border=true)
 ![Vishnu-V-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---

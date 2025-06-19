@@ -60,7 +60,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Vishnu-V-N's Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Vishnu-V-N's Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![Vishnu-V-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---

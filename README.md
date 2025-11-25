@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-🌍 Cloud Solutions Architect based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.
+🌍 Cloud/DevOps Engineer based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.
 
 🚀 IT Professional with hands-on experience in AWS, GCP, Azure, DevOps, and automation tools.
 
@@ -34,7 +34,7 @@
 
 📖 In my downtime, I enjoy reading tech blogs, contributing to open-source, and experimenting with new tools.
 
-📫 Let's Connect: Vishnuvijayan6865@gmail.com
+📫 Let's Connect: Vishnuvn6865@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

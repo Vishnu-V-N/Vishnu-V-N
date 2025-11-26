@@ -21,7 +21,6 @@
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1tQxZhMX9ZJ84t85IoNS45haOq4DfsIcI" width="600" height="200"/>
 </div>
----
 
 ### :man_technologist: About Me :
 🌍 Cloud/DevOps Engineer based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.

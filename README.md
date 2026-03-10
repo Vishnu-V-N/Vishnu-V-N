@@ -31,7 +31,7 @@
 
 📫 Let's Connect: Vishnuvn6865@gmail.com
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠⚙️ DevOps & Cloud Stack</h3>
 
 <div>
 

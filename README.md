@@ -54,7 +54,7 @@
 
 </div>
 
-# 📊 GitHub Stats:-
+# 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishnu-V-N&theme=highcontrast&hide_border=true)
 

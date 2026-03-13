@@ -53,7 +53,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
 <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" title="DBeaver" alt="DBeaver" width="45" height="45"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/6/63/SQuirreL_SQL_Client_Logo.png" title="SQuirreL SQL Client" alt="SQuirreL SQL Client" width="50" height="50"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/3518142?s=200&v=4" title="SQuirreL SQL Client" alt="SQuirreL SQL Client" width="50" height="50"/>&nbsp;
 </div>
 
 # 📊 GitHub Stats

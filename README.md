@@ -52,7 +52,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="50" height="50"/>&nbsp;
 <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" title="DBeaver" alt="DBeaver" width="45" height="45"/>&nbsp;
+
 </div>
 
 # 📊 GitHub Stats

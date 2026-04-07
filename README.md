@@ -32,31 +32,17 @@
 
 ## ⚡ About Me
 
-Cloud & DevOps Engineer focused on building scalable infrastructure, automation pipelines, and reliable systems.
+🌍 Cloud/DevOps Engineer based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.
 
-I focus on:
-- Automation over manual work  
-- Reproducible infrastructure  
-- Performance and reliability  
+🚀 IT Professional with hands-on experience in AWS, GCP, Azure, DevOps, and automation tools.
 
-> Good systems feel simple. Great systems are engineered that way.
+🧠 Lifelong Learner — always exploring emerging technologies, cloud-native architectures, and best practices.
 
-</div>
+🛠️ Problem Solver who enjoys optimizing systems and boosting developer productivity through automation.
 
----
+📖 In my downtime, I enjoy reading tech blogs, contributing to open-source, and experimenting with new tools.
 
-<div align="center">
-
-## 🧭 Professional Snapshot
-
-</div>
-
-- ☁️ AWS & Google Cloud Platform  
-- ⚙️ CI/CD: GitLab, GitHub Actions, Jenkins  
-- 🐳 Docker & Kubernetes  
-- 🏗️ Terraform & Ansible  
-- 🔐 Python & Bash automation  
-- 📊 Database & system optimization  
+📫 Let's Connect: Vishnuvn6865@gmail.com
 
 ---
 

@@ -28,21 +28,28 @@
 
 ---
 
+<div align="center">
+
 ## ⚡ About Me
 
 Cloud & DevOps Engineer focused on building scalable infrastructure, automation pipelines, and reliable systems.
 
-- Automate everything possible  
-- Build reproducible infrastructure  
-- Focus on performance and reliability  
-
-I believe good engineering is not about complexity, but about clarity, consistency, and purpose.
+I focus on:
+- Automation over manual work  
+- Reproducible infrastructure  
+- Performance and reliability  
 
 > Good systems feel simple. Great systems are engineered that way.
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 🧭 Professional Snapshot
+
+</div>
 
 - ☁️ AWS & Google Cloud Platform  
 - ⚙️ CI/CD: GitLab, GitHub Actions, Jenkins  
@@ -53,6 +60,8 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 ---
 
+<div align="center">
+
 ## 🛠️ What I Work On
 
 <table width="100%">
@@ -60,7 +69,7 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 <td align="center">
 <h4>☁️ Cloud Infrastructure</h4>
-<p>AWS & GCP scalable environments</p>
+<p>Scalable AWS & GCP environments</p>
 </td>
 
 <td align="center">
@@ -76,9 +85,15 @@ I believe good engineering is not about complexity, but about clarity, consisten
 </tr>
 </table>
 
+</div>
+
 ---
 
+<div align="center">
+
 ## ⚔️ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -110,31 +125,76 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 ---
 
+<div align="center">
+
 ## 🧩 Core Engineering Focus
 
-- Automation and CI/CD  
-- Reliable and scalable systems  
+</div>
+
+- Automation & CI/CD  
+- Reliable & scalable systems  
 - Performance optimization  
 - Clean Infrastructure as Code  
 
 ---
 
+<div align="center">
+
 ## 🚀 DevOps Projects
 
-| Project | Description |
-|--------|------------|
-| GCP Workspace Audit Tool | Automated user auditing |
-| Cloud Function Audit Script | Monitoring & validation |
-| Terraform Infra Setup | AWS/GCP provisioning |
-| CI/CD Pipeline Setup | Automated deployments |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td><b>GCP Workspace Audit Tool</b></td>
+<td>Automated user auditing</td>
+</tr>
+
+<tr>
+<td><b>Cloud Function Audit Script</b></td>
+<td>Monitoring & validation</td>
+</tr>
+
+<tr>
+<td><b>Terraform Infra Setup</b></td>
+<td>AWS/GCP provisioning</td>
+</tr>
+
+<tr>
+<td><b>CI/CD Pipeline Setup</b></td>
+<td>Automated deployments</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu068709&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Vishnu-V-N&theme=highcontrast&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vishnu068709&theme=highcontrast&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&layout=compact&theme=highcontrast&hide_border=true"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&layout=compact&theme=highcontrast&hide_border=true"/>
+
+</div>
 
 ---
 

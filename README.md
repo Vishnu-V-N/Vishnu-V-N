@@ -181,16 +181,6 @@
 
 <a id="search-friendly-expertise"></a>
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=Vishnu-V-N&theme=highcontrast&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu068709&layout=compact&theme=highcontrast&hide_border=true"/>
-
-</div>
-
 ---
 
 <p align="center">

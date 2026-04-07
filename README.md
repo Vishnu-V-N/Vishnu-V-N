@@ -183,7 +183,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Vishnu068709&theme=highcontrast&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vishnu-V-N&theme=highcontrast&hide_border=true"/>
 
 <br/>
 

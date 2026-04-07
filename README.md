@@ -2,17 +2,27 @@
 
 <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100"/>
 
-<h1>🚀 Vishnu V N</h1>
+<h1>🚀 Welcome aboard! You’ve just landed on my profile</h1>
 
-<h3>
-Cloud & DevOps Engineer | AWS | GCP | Kubernetes | Terraform
-</h3>
+<h3>Cloud & DevOps Engineer | AWS | GCP | Kubernetes | Terraform</h3>
 
-<p>
-Building scalable, automated, and reliable cloud infrastructure.
-</p>
+<p>Building scalable, automated, and reliable cloud infrastructure.</p>
 
 <img src="https://komarev.com/ghpvc/?username=Vishnu068709&style=for-the-badge&color=blue"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vishnu-v-n">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Vishnuvn6865@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+<img src="https://img.shields.io/badge/CREDLY-lightblue?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -20,9 +30,8 @@ Building scalable, automated, and reliable cloud infrastructure.
 
 ## ⚡ About Me
 
-I’m a Cloud & DevOps Engineer focused on building scalable infrastructure, automation pipelines, and reliable systems.
+Cloud & DevOps Engineer focused on building scalable infrastructure, automation pipelines, and reliable systems.
 
-My approach is simple:
 - Automate everything possible  
 - Build reproducible infrastructure  
 - Focus on performance and reliability  
@@ -35,12 +44,12 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 ## 🧭 Professional Snapshot
 
-- ☁️ Working with **AWS and Google Cloud Platform**
-- ⚙️ Building **CI/CD pipelines (GitLab, GitHub Actions, Jenkins)**
-- 🐳 Managing containers using **Docker and Kubernetes**
-- 🏗️ Infrastructure as Code with **Terraform and Ansible**
-- 🔐 Automation using **Python and Bash**
-- 📊 Working with **databases and system optimization**
+- ☁️ AWS & Google Cloud Platform  
+- ⚙️ CI/CD: GitLab, GitHub Actions, Jenkins  
+- 🐳 Docker & Kubernetes  
+- 🏗️ Terraform & Ansible  
+- 🔐 Python & Bash automation  
+- 📊 Database & system optimization  
 
 ---
 
@@ -51,17 +60,17 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 <td align="center">
 <h4>☁️ Cloud Infrastructure</h4>
-<p>Designing scalable and secure cloud environments using AWS and GCP.</p>
+<p>AWS & GCP scalable environments</p>
 </td>
 
 <td align="center">
 <h4>⚙️ DevOps Automation</h4>
-<p>CI/CD pipelines, automation scripts, and infrastructure provisioning.</p>
+<p>CI/CD pipelines & automation</p>
 </td>
 
 <td align="center">
 <h4>🐳 Containerization</h4>
-<p>Dockerized applications and Kubernetes orchestration.</p>
+<p>Docker & Kubernetes orchestration</p>
 </td>
 
 </tr>
@@ -71,40 +80,42 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 ## ⚔️ Tech Stack
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td align="center">
-<h3>☁️ Cloud & Infra</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="50"/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible&theme=dark"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
 
-<br/><br/>
-<b>AWS • GCP • Docker • Kubernetes • Terraform • Ansible</b>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
 
-</td>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/>
 
-<td align="center">
-<h3>⚙️ DevOps & Tools</h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50"/>
+<img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,linux,vscode&theme=dark"/>
-
-<br/><br/>
-<b>Git • GitHub • GitLab • Jenkins • Linux • VS Code</b>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🧩 Core Engineering Focus
 
-- **Automation:** CI/CD pipelines, scripting, infrastructure automation  
-- **Reliability:** Stable, scalable, and production-ready systems  
-- **Performance:** Optimized deployments and efficient resource usage  
-- **Infrastructure:** Clean and reusable IaC design  
+- Automation and CI/CD  
+- Reliable and scalable systems  
+- Performance optimization  
+- Clean Infrastructure as Code  
 
 ---
 
@@ -112,16 +123,10 @@ I believe good engineering is not about complexity, but about clarity, consisten
 
 | Project | Description |
 |--------|------------|
-| **GCP Workspace Audit Tool** | Automated auditing of users and access |
-| **Cloud Function Audit Script** | Monitoring and validation of functions |
-| **Terraform Infra Setup** | Provisioning infrastructure on AWS/GCP |
-| **CI/CD Pipeline Setup** | Automated deployments using GitLab |
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N&theme=github-dark&hide_border=true"/>
+| GCP Workspace Audit Tool | Automated user auditing |
+| Cloud Function Audit Script | Monitoring & validation |
+| Terraform Infra Setup | AWS/GCP provisioning |
+| CI/CD Pipeline Setup | Automated deployments |
 
 ---
 
@@ -130,22 +135,6 @@ I believe good engineering is not about complexity, but about clarity, consisten
 <img src="https://streak-stats.demolab.com?user=Vishnu-V-N&theme=highcontrast&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-V-N&layout=compact&theme=highcontrast&hide_border=true"/>
-
----
-
-## 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/vishnu-v-n">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:Vishnuvn6865@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.credly.com/users/vishnu_v.n">
-<img src="https://img.shields.io/badge/Credly-lightblue?style=for-the-badge"/>
-</a>
 
 ---
 

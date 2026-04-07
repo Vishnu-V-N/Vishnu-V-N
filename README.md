@@ -28,8 +28,6 @@
 
 ---
 
-<div align="center">
-
 ## ⚡ About Me
 
 🌍 Cloud/DevOps Engineer based in India, passionate about building scalable, secure, and cost-efficient cloud infrastructure.

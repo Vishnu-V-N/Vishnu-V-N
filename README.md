@@ -120,7 +120,6 @@
 <h3 align="center">🌌 Contribution Universe</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6" height="165"  alt="GitHub stats card"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishnu-V-N&theme=github-dark-blue&hide_border=true&ring=00FFA6&fire=00FFA6&currStreakLabel=00FFA6" height="165"  alt="GitHub streak stats card"/>
 </p>
 

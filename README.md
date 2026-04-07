@@ -111,55 +111,6 @@
 
 <div align="center">
 
-## 🧩 Core Engineering Focus
-
-</div>
-
-- Automation & CI/CD  
-- Reliable & scalable systems  
-- Performance optimization  
-- Clean Infrastructure as Code  
-
----
-
-<div align="center">
-
-## 🚀 DevOps Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td><b>GCP Workspace Audit Tool</b></td>
-<td>Automated user auditing</td>
-</tr>
-
-<tr>
-<td><b>Cloud Function Audit Script</b></td>
-<td>Monitoring & validation</td>
-</tr>
-
-<tr>
-<td><b>Terraform Infra Setup</b></td>
-<td>AWS/GCP provisioning</td>
-</tr>
-
-<tr>
-<td><b>CI/CD Pipeline Setup</b></td>
-<td>Automated deployments</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Contribution Activity
 
 <p align="center">

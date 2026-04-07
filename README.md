@@ -182,8 +182,7 @@ I focus on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N&bg_color=0D1117&color=00FFA6&line=00FFA6&point=FFFFFF&hide_border=true" width="100%"  alt="GitHub contribution activity graph"/>
 </p>
 
-<h3 align="center">
-<img src="https://github.com/Vishnu-V-N/Vishnu-V-N/blob/main/datafiles/profile-night-green.svg?raw=true" style="max-width:700px; width:90%;"  alt="Contribution universe graphic"/>
+<h3 align="center">🌌 Contribution Universe</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFA6&icon_color=00FFA6" height="165"  alt="GitHub stats card"/>

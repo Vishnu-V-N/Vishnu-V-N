@@ -40,7 +40,7 @@
 
 📖 In my downtime, I enjoy reading tech blogs, contributing to open-source, and experimenting with new tools.
 
-📫 Let's Connect: Vishnuvn6865@gmail.com
+📫 Let's Connect: Vishnuvn6865@gmail.com 
 
 ---
 

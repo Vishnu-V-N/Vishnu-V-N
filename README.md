@@ -87,7 +87,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="50"/>
-<img src="https://avatars.githubusercontent.com/u/69135207?s=200&v=4" title="Prisma Cloud" alt="Prisma Cloud" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="50"/>

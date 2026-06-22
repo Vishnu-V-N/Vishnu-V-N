@@ -113,8 +113,7 @@
 <h3 align="center">🌌 Contribution Universe</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishnu-V-N&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-V-N&theme=tokyonight" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 </div>

@@ -44,7 +44,7 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Badges 
 
 <p align="center">
 

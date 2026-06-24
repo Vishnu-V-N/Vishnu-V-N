@@ -103,6 +103,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50"/>
 <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="50"/>
 
 </div>
 

@@ -44,6 +44,56 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./pca.png" width="70" alt="Google Professional Cloud Architect"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./pcse.png" width="70" alt="Google Professional Cloud Security Engineer"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./workspace-admin.png" width="70" alt="Google Workspace Administrator"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./az500.png" width="70" alt="Azure Security Engineer Associate"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./nca.png" width="70" alt="Nutanix Certified Associate"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./ncp-mci.png" width="70" alt="Nutanix Certified Professional - Multicloud Infrastructure"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./ncp-ma.png" width="70" alt="Nutanix Certified Professional - Multicloud Automation"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./k8s.png" width="70" alt="Advanced Kubernetes"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./genai.png" width="70" alt="Gen AI"/>
+</a>
+
+<a href="https://www.credly.com/users/vishnu_v.n">
+  <img src="./xm.png" width="70" alt="XM Cyber CUE"/>
+</a>
+
+</p>
+
 <div align="center">
 
 ## 🛠️ What I Work On

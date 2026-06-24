@@ -43,7 +43,22 @@
 📫 Let's Connect: Vishnuvn6865@gmail.com 
 
 ---
+<div align="center">
 
+<img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-Cloud_Security_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nutanix-NCP_MCI-024DA1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nutanix-NCP_MA-024DA1?style=for-the-badge"/>
+
+</div>
+---
 <div align="center">
 
 ## 🛠️ What I Work On

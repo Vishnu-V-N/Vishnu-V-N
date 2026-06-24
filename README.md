@@ -43,6 +43,33 @@
 📫 Let's Connect: Vishnuvn6865@gmail.com 
 
 ---
+## 🏆 Certifications
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Professional%20Cloud%20Architect%20Certification.png" width="110" alt="Professional Cloud Architect"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/azure-security-engineer-associate600x600.png" width="110" alt="Azure Security Engineer"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Nutanix%20Certified%20Associate%206.png" width="110" alt="NCA"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Nutanix%20Certified%20Professional%20-%20Multicloud%20Infrastructure%206.png" width="110" alt="NCP-MCI"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Nutanix%20Certified%20Professional%20-%20Multicloud%20Automation%206.png" width="110" alt="NCP-MA"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Professional%20Google%20Workspace%20Administrator%20.png" width="110" alt="Google Workspace Administrator"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Gen%20AI.png" width="110" alt="Gen AI"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/Well-Architected%20Proficient.png" width="110" alt="Well Architected"/>
+
+<img src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/main/XM%20Cyber%20CUE%20-%20Certified%20User%20Expert.png" width="110" alt="Cyber CUE"/>
+
+</p>
 
 <div align="center">
 

@@ -88,10 +88,6 @@
   <img src="./genai.png" width="70" alt="Gen AI"/>
 </a>
 
-<a href="https://www.credly.com/users/vishnu_v.n">
-  <img src="./xm.png" width="70" alt="XM Cyber CUE"/>
-</a>
-
 </p>
 
 <div align="center">

@@ -43,22 +43,36 @@
 📫 Let's Connect: Vishnuvn6865@gmail.com 
 
 ---
+## 🏆 Certifications
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="https://images.credly.com/size/220x220/images/google-cloud-professional-cloud-architect.png" width="120" alt="Professional Cloud Architect"/>
+</a>
 
-<img src="https://img.shields.io/badge/Google_Cloud-Cloud_Security_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="https://images.credly.com/size/220x220/images/google-cloud-professional-cloud-security-engineer.png" width="120" alt="Professional Cloud Security Engineer"/>
+</a>
 
-<img src="https://img.shields.io/badge/Microsoft-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="YOUR_AZURE_SECURITY_BADGE_IMAGE" width="120" alt="Azure Security Engineer"/>
+</a>
 
-<img src="https://img.shields.io/badge/Microsoft-Security_Operations_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="YOUR_SC200_BADGE_IMAGE" width="120" alt="Security Operations Analyst"/>
+</a>
 
-<img src="https://img.shields.io/badge/Nutanix-NCP_MCI-024DA1?style=for-the-badge"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="YOUR_NCP_MCI_BADGE_IMAGE" width="120" alt="NCP-MCI"/>
+</a>
 
-<img src="https://img.shields.io/badge/Nutanix-NCP_MA-024DA1?style=for-the-badge"/>
+<a href="YOUR_CREDLY_LINK">
+  <img src="YOUR_NCP_MA_BADGE_IMAGE" width="120" alt="NCP-MA"/>
+</a>
 
 </div>
----
+
 <div align="center">
 
 ## 🛠️ What I Work On

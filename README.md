@@ -34,7 +34,7 @@
 
 🚀 IT Professional with hands-on experience in AWS, GCP, Azure, DevOps, and automation tools.
 
-🧠 Lifelong Learner — always exploring emerging technologies, cloud-native architectures, and best practices.
+🧠 Lifelong Learner - always exploring emerging technologies, cloud-native architectures, and best practices.
 
 🛠️ Problem Solver who enjoys optimizing systems and boosting developer productivity through automation.
 

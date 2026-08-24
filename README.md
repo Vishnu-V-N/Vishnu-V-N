@@ -4,7 +4,7 @@
 
 <h1>🚀 Welcome aboard! You’ve just landed on my profile</h1>
 
-<h3>Cloud & DevOps Engineer | AWS | GCP | Kubernetes | Terraform</h3>
+<h3>Cloud DevOps Engineer | AWS | GCP | Kubernetes | Terraform</h3>
 
 <p>Building scalable, automated, and reliable cloud infrastructure.</p>
 

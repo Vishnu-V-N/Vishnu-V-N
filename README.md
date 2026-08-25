@@ -157,15 +157,13 @@
 
 <div align="center">
 
-<h3 align="center">🌌 Contribution Universe</h3>
+<h3>📈 Contribution Universe</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N"
-    alt="Vishnu V N GitHub Activity Graph"
-    width="100%"
-  />
-</p>
+<img
+  src="https://raw.githubusercontent.com/Vishnu-V-N/Vishnu-V-N/output/activity-graph.svg"
+  width="100%"
+  alt="Vishnu V N Contribution Activity"
+/>
 
 </div>
 

@@ -1,0 +1,31 @@
+name: Update Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: Vishnu-V-N
+          output: activity-graph.svg
+
+      - name: Commit graph
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git diff --cached --quiet || git commit -m "Update contribution graph"
+          git push

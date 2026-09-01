@@ -160,7 +160,9 @@
 <h3>📈 Contribution Universe</h3>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fafafa&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-V-N&theme=github-compact&hide_border=true"
+     width="100%"
+     alt="Vishnu V N GitHub Activity Graph" />
 </p>
 
 </div>

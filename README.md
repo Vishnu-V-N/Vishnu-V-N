@@ -7,7 +7,6 @@
 <h3>Cloud DevOps Engineer | AWS | GCP | Kubernetes | Terraform</h3>
 
 <p>Building scalable, automated, and reliable cloud infrastructure.</p>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/vishnu-v-n">

@@ -8,8 +8,6 @@
 
 <p>Building scalable, automated, and reliable cloud infrastructure.</p>
 
-<img src="https://komarev.com/ghpvc/?username=Vishnu068709&style=for-the-badge&color=blue"/>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/vishnu-v-n">
